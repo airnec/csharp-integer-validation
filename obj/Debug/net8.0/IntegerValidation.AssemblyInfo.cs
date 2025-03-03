@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntegerValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cac18508ba65027c97a13826ab7be0e9eed551ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+259c4b5f89e98c9095ebb87a878b27817c365cd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntegerValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntegerValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
